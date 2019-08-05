@@ -1,9 +1,8 @@
 # Capstone_I
 Priya Theru 
+
 Springboard Data Science Career Track, April 2019 cohort  
 
-
-# Introduction 
 
 # Problem Statement:
 Classifying Twitter sentiments based on positive/negative/neutral labels using NLP  
