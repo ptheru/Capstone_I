@@ -1,5 +1,5 @@
 # Capstone_I
-Priya Theru 
+Priya Theru Mohan 
 
 Springboard Data Science Career Track, April 2019 cohort  
 
